@@ -1,0 +1,597 @@
+﻿Occupation,Number of workers,Median weekly earnings,Number of workers (M),Median weekly earnings  (M),Number of workers (F),Median weekly earnings (W)
+"Total, full-time wage and salary workers",114316.00,998.00,62928.00,1097.00,51388.00,912.00
+"Management, professional, and related occupations",51166.00,1390.00,24561.00,1609.00,26605.00,1222.00
+"Management, business, and financial operations occupations",21529.00,1482.00,11231.00,1672.00,10299.00,1306.00
+Management occupations,13942.00,1546.00,7826.00,1752.00,6116.00,1341.00
+Chief executives,1151.00,2473.00,803.00,2721.00,348.00,1904.00
+General and operations managers,999.00,1449.00,637.00,1548.00,361.00,1285.00
+Legislators,13.00,–,6.00,–,7.00,–
+Advertising and promotions managers,55.00,1338.00,31.00,–,23.00,–
+Marketing managers,490.00,1545.00,182.00,1698.00,309.00,1490.00
+Sales managers,500.00,1749.00,350.00,1910.00,150.00,1344.00
+Public relations and fundraising managers,100.00,1670.00,34.00,–,66.00,1659.00
+Administrative services managers,50.00,1227.00,9.00,–,41.00,–
+Facilities managers,132.00,1456.00,106.00,1542.00,25.00,–
+Computer and information systems managers,675.00,2085.00,492.00,2135.00,184.00,1908.00
+Financial managers,1220.00,1569.00,539.00,1885.00,681.00,1372.00
+Compensation and benefits managers,18.00,–,5.00,–,14.00,–
+Human resources managers,260.00,1587.00,49.00,–,211.00,1545.00
+Training and development managers,49.00,–,15.00,–,34.00,–
+Industrial production managers,236.00,1636.00,190.00,1666.00,46.00,–
+Purchasing managers,214.00,1562.00,117.00,1612.00,97.00,1363.00
+"Transportation, storage, and distribution managers",304.00,1113.00,239.00,1221.00,65.00,984.00
+"Farmers, ranchers, and other agricultural managers",126.00,1032.00,103.00,1048.00,24.00,–
+Construction managers,633.00,1534.00,578.00,1548.00,54.00,1165.00
+Education and childcare administrators,856.00,1551.00,315.00,1857.00,540.00,1411.00
+Architectural and engineering managers,176.00,2709.00,156.00,2723.00,20.00,–
+Food service managers,758.00,881.00,360.00,1014.00,398.00,789.00
+Funeral home managers,5.00,–,4.00,–,2.00,–
+Entertainment and recreation managers,31.00,–,22.00,–,10.00,–
+Lodging managers,83.00,973.00,42.00,–,41.00,–
+Medical and health services managers,676.00,1463.00,161.00,1773.00,515.00,1363.00
+Natural sciences managers,17.00,–,9.00,–,9.00,–
+Postmasters and mail superintendents,12.00,–,6.00,–,6.00,–
+"Property, real estate, and community association managers",466.00,1162.00,212.00,1360.00,254.00,1086.00
+Social and community service managers,348.00,1204.00,125.00,1317.00,222.00,1150.00
+Emergency management directors,12.00,–,5.00,–,7.00,–
+"Personal service managers, all other",0.00,–,0.00,–,0.00,–
+"Managers, all other",3276.00,1573.00,1924.00,1747.00,1352.00,1396.00
+Business and financial operations occupations,7587.00,1382.00,3404.00,1552.00,4183.00,1253.00
+"Agents and business managers of artists, performers, and athletes",30.00,–,15.00,–,15.00,–
+"Buyers and purchasing agents, farm products",9.00,–,8.00,–,1.00,–
+"Wholesale and retail buyers, except farm products",126.00,1061.00,56.00,1072.00,69.00,1027.00
+"Purchasing agents, except wholesale, retail, and farm products",212.00,1165.00,80.00,1165.00,132.00,1165.00
+"Claims adjusters, appraisers, examiners, and investigators",327.00,1147.00,138.00,1327.00,189.00,973.00
+Compliance officers,274.00,1369.00,137.00,1331.00,137.00,1423.00
+Cost estimators,119.00,1395.00,92.00,1448.00,27.00,–
+Human resources workers,795.00,1251.00,217.00,1411.00,579.00,1212.00
+"Compensation, benefits, and job analysis specialists",66.00,1232.00,18.00,–,48.00,–
+Training and development specialists,130.00,1342.00,66.00,1464.00,64.00,1195.00
+Logisticians,116.00,1322.00,72.00,1336.00,43.00,–
+Project management specialists,735.00,1649.00,415.00,1861.00,321.00,1455.00
+Management analysts,707.00,1608.00,384.00,1887.00,323.00,1451.00
+"Meeting, convention, and event planners",84.00,1080.00,13.00,–,71.00,1037.00
+Fundraisers,80.00,1667.00,26.00,–,54.00,1540.00
+Market research analysts and marketing specialists,335.00,1446.00,135.00,1743.00,200.00,1276.00
+"Business operations specialists, all other",497.00,1241.00,208.00,1326.00,289.00,1162.00
+Accountants and auditors,1374.00,1345.00,521.00,1494.00,852.00,1261.00
+Property appraisers and assessors,39.00,–,25.00,–,14.00,–
+Budget analysts,59.00,1558.00,24.00,–,35.00,–
+Credit analysts,46.00,–,17.00,–,29.00,–
+Financial and investment analysts,313.00,1719.00,177.00,1837.00,137.00,1607.00
+Personal financial advisors,389.00,1773.00,235.00,2183.00,154.00,1424.00
+Insurance underwriters,122.00,1367.00,49.00,–,73.00,1365.00
+Financial examiners,13.00,–,4.00,–,9.00,–
+Credit counselors and loan officers,427.00,1332.00,208.00,1560.00,218.00,1127.00
+"Tax examiners and collectors, and revenue agents",60.00,1015.00,28.00,–,31.00,–
+Tax preparers,50.00,961.00,20.00,–,30.00,–
+Other financial specialists,54.00,1441.00,17.00,–,37.00,–
+Professional and related occupations,29637.00,1335.00,13330.00,1555.00,16306.00,1167.00
+Computer and mathematical occupations,5267.00,1660.00,3917.00,1742.00,1350.00,1499.00
+Computer and information research scientists,41.00,–,28.00,–,13.00,–
+Computer systems analysts,423.00,1489.00,266.00,1556.00,157.00,1414.00
+Information security analysts,145.00,1874.00,120.00,1904.00,26.00,–
+Computer programmers,387.00,1734.00,308.00,1742.00,79.00,1677.00
+Software developers,1875.00,1922.00,1507.00,1992.00,369.00,1840.00
+Software quality assurance analysts and testers,70.00,1550.00,37.00,–,33.00,–
+Web developers,59.00,1327.00,38.00,–,22.00,–
+Web and digital interface designers,40.00,–,23.00,–,17.00,–
+Computer support specialists,620.00,1256.00,471.00,1265.00,148.00,1209.00
+Database administrators and architects,103.00,1879.00,68.00,1920.00,35.00,–
+Network and computer systems administrators,205.00,1505.00,171.00,1529.00,35.00,–
+Computer network architects,104.00,1990.00,93.00,2006.00,11.00,–
+"Computer occupations, all other",787.00,1413.00,577.00,1483.00,211.00,1143.00
+Actuaries,30.00,–,16.00,–,15.00,–
+Mathematicians,2.00,–,2.00,–,0.00,–
+Operations research analysts,126.00,1574.00,60.00,1773.00,67.00,1408.00
+Statisticians,37.00,–,21.00,–,15.00,–
+Other mathematical science occupations,213.00,1458.00,115.00,1470.00,99.00,1388.00
+Architecture and engineering occupations,2985.00,1641.00,2483.00,1725.00,502.00,1435.00
+"Architects, except landscape and naval",151.00,1642.00,106.00,1751.00,45.00,–
+Landscape architects,19.00,–,12.00,–,6.00,–
+"Surveyors, cartographers, and photogrammetrists",34.00,–,31.00,–,4.00,–
+Aerospace engineers,125.00,1863.00,103.00,1895.00,22.00,–
+Agricultural engineers,8.00,–,8.00,–,0.00,–
+Bioengineers and biomedical engineers,15.00,–,15.00,–,1.00,–
+Chemical engineers,76.00,1875.00,65.00,1915.00,12.00,–
+Civil engineers,403.00,1633.00,334.00,1661.00,69.00,1531.00
+Computer hardware engineers,86.00,2006.00,77.00,2083.00,9.00,–
+Electrical and electronics engineers,286.00,1899.00,267.00,1910.00,19.00,–
+Environmental engineers,32.00,–,20.00,–,12.00,–
+"Industrial engineers, including health and safety",221.00,1648.00,161.00,1725.00,60.00,1571.00
+Marine engineers and naval architects,15.00,–,15.00,–,0.00,–
+Materials engineers,49.00,–,33.00,–,15.00,–
+Mechanical engineers,329.00,1660.00,298.00,1732.00,31.00,–
+"Mining and geological engineers, including mining safety engineers",9.00,–,6.00,–,3.00,–
+Nuclear engineers,11.00,–,10.00,–,2.00,–
+Petroleum engineers,11.00,–,8.00,–,3.00,–
+"Engineers, all other",602.00,1771.00,505.00,1833.00,97.00,1549.00
+Architectural and civil drafters,29.00,–,21.00,–,7.00,–
+Other drafters,90.00,1280.00,66.00,1437.00,25.00,–
+Electrical and electronic engineering technologists and technicians,62.00,1243.00,55.00,1261.00,7.00,–
+"Other engineering technologists and technicians, except drafters",275.00,1245.00,222.00,1367.00,52.00,903.00
+Surveying and mapping technicians,50.00,796.00,48.00,–,2.00,–
+"Life, physical, and social science occupations",1391.00,1407.00,763.00,1496.00,627.00,1342.00
+Agricultural and food scientists,30.00,–,16.00,–,14.00,–
+Biological scientists,89.00,1317.00,46.00,–,42.00,–
+Conservation scientists and foresters,19.00,–,12.00,–,7.00,–
+Medical scientists,116.00,1662.00,57.00,2291.00,59.00,1368.00
+"Life scientists, all other",8.00,–,3.00,–,5.00,–
+Astronomers and physicists,19.00,–,13.00,–,6.00,–
+Atmospheric and space scientists,9.00,–,6.00,–,3.00,–
+Chemists and materials scientists,90.00,1647.00,62.00,1681.00,28.00,–
+"Environmental scientists and specialists, including health",39.00,–,25.00,–,15.00,–
+"Geoscientists and hydrologists, except geographers",42.00,–,31.00,–,11.00,–
+"Physical scientists, all other",332.00,1738.00,193.00,1933.00,138.00,1500.00
+Economists,20.00,–,12.00,–,8.00,–
+Survey researchers,1.00,–,0.00,–,1.00,–
+Clinical and counseling psychologists,4.00,–,1.00,–,3.00,–
+School psychologists,51.00,1343.00,5.00,–,47.00,–
+Other psychologists,56.00,1493.00,13.00,–,43.00,–
+Sociologists,4.00,–,0.00,–,4.00,–
+Urban and regional planners,21.00,–,11.00,–,10.00,–
+Miscellaneous social scientists and related workers,47.00,–,23.00,–,24.00,–
+Agricultural and food science technicians,37.00,–,28.00,–,9.00,–
+Biological technicians,14.00,–,9.00,–,6.00,–
+Chemical technicians,39.00,–,20.00,–,19.00,–
+Environmental science and geoscience technicians,12.00,–,7.00,–,5.00,–
+Nuclear technicians,4.00,–,4.00,–,0.00,–
+Social science research assistants,5.00,–,2.00,–,3.00,–
+"Other life, physical, and social science technicians",213.00,1093.00,114.00,1142.00,98.00,1059.00
+Occupational health and safety specialists and technicians,70.00,1325.00,51.00,1388.00,19.00,–
+Community and social service occupations,2276.00,1065.00,788.00,1164.00,1489.00,1016.00
+Substance abuse and behavioral disorder counselors,110.00,969.00,41.00,–,69.00,911.00
+"Educational, guidance, and career counselors and advisors",296.00,1091.00,69.00,1173.00,228.00,1077.00
+Marriage and family therapists,26.00,–,4.00,–,22.00,–
+Mental health counselors,139.00,1140.00,38.00,–,101.00,1133.00
+Rehabilitation counselors,9.00,–,2.00,–,7.00,–
+"Counselors, all other",181.00,953.00,75.00,1083.00,107.00,860.00
+"Child, family, and school social workers",58.00,1012.00,11.00,–,46.00,–
+Healthcare social workers,71.00,924.00,17.00,–,54.00,894.00
+Mental health and substance abuse social workers,7.00,–,0.00,–,7.00,–
+"Social workers, all other",601.00,1073.00,93.00,1232.00,508.00,1049.00
+Probation officers and correctional treatment specialists,87.00,1247.00,42.00,–,45.00,–
+Social and human service assistants,160.00,914.00,34.00,–,126.00,886.00
+Other community and social service specialists,88.00,1111.00,19.00,–,69.00,1050.00
+Clergy,339.00,1135.00,296.00,1152.00,43.00,–
+"Directors, religious activities and education",45.00,–,26.00,–,19.00,–
+"Religious workers, all other",60.00,937.00,20.00,–,39.00,–
+Legal occupations,1401.00,1586.00,594.00,2233.00,807.00,1332.00
+Lawyers,793.00,2252.00,462.00,2495.00,331.00,1912.00
+Judicial law clerks,18.00,–,4.00,–,14.00,–
+"Judges, magistrates, and other judicial workers",68.00,1652.00,28.00,–,40.00,–
+Paralegals and legal assistants,361.00,1080.00,51.00,1229.00,310.00,1065.00
+"Title examiners, abstractors, and searchers",89.00,1120.00,25.00,–,64.00,999.00
+"Legal support workers, all other",72.00,1238.00,23.00,–,49.00,–
+"Education, training, and library occupations",7124.00,1138.00,1877.00,1332.00,5248.00,1071.00
+Postsecondary teachers,920.00,1550.00,460.00,1653.00,460.00,1483.00
+Preschool and kindergarten teachers,471.00,780.00,16.00,–,455.00,771.00
+Elementary and middle school teachers,3000.00,1163.00,625.00,1301.00,2375.00,1138.00
+Secondary school teachers,860.00,1216.00,365.00,1269.00,495.00,1159.00
+Special education teachers,338.00,1126.00,64.00,1198.00,275.00,1097.00
+Tutors,12.00,–,3.00,–,9.00,–
+Other teachers and instructors,389.00,1118.00,165.00,1260.00,224.00,1002.00
+"Archivists, curators, and museum technicians",42.00,–,13.00,–,29.00,–
+Librarians and media collections specialists,144.00,1131.00,29.00,–,115.00,1142.00
+Library technicians,20.00,–,1.00,–,18.00,–
+Teaching assistants,803.00,641.00,116.00,639.00,687.00,641.00
+Other educational instruction and library workers,127.00,1271.00,20.00,–,107.00,1274.00
+"Arts, design, entertainment, sports, and media occupations",1707.00,1229.00,925.00,1317.00,781.00,1145.00
+Artists and related workers,87.00,1355.00,46.00,–,41.00,–
+Commercial and industrial designers,10.00,–,7.00,–,3.00,–
+Fashion designers,22.00,–,6.00,–,17.00,–
+Floral designers,35.00,–,11.00,–,24.00,–
+Graphic designers,180.00,1163.00,89.00,1151.00,91.00,1225.00
+Interior designers,45.00,–,5.00,–,40.00,–
+Merchandise displayers and window trimmers,17.00,–,7.00,–,10.00,–
+Other designers,284.00,1402.00,185.00,1429.00,99.00,1271.00
+Actors,11.00,–,5.00,–,6.00,–
+Producers and directors,139.00,1369.00,78.00,1522.00,61.00,1347.00
+Athletes and sports competitors,21.00,–,20.00,–,2.00,–
+Coaches and scouts,110.00,913.00,81.00,1136.00,29.00,–
+"Umpires, referees, and other sports officials",2.00,–,2.00,–,0.00,–
+Dancers and choreographers,3.00,–,0.00,–,3.00,–
+Music directors and composers,15.00,–,12.00,–,3.00,–
+Musicians and singers,13.00,–,11.00,–,2.00,–
+"Disc jockeys, except radio",3.00,–,2.00,–,1.00,–
+"Entertainers and performers, sports and related workers, all other",9.00,–,8.00,–,1.00,–
+Broadcast announcers and radio disc jockeys,12.00,–,7.00,–,4.00,–
+"News analysts, reporters, and journalists",55.00,1036.00,22.00,–,33.00,–
+Public relations specialists,113.00,1641.00,44.00,–,69.00,1615.00
+Editors,63.00,1350.00,28.00,–,35.00,–
+Technical writers,62.00,1540.00,31.00,–,31.00,–
+Writers and authors,131.00,1239.00,49.00,–,82.00,1155.00
+Interpreters and translators,52.00,993.00,13.00,–,39.00,–
+Court reporters and simultaneous captioners,12.00,–,3.00,–,9.00,–
+"Media and communication workers, all other",23.00,–,12.00,–,12.00,–
+"Broadcast, sound, and lighting technicians",54.00,1370.00,50.00,1537.00,5.00,–
+Photographers,59.00,858.00,45.00,–,14.00,–
+"Television, video, and film camera operators and editors",63.00,1051.00,46.00,–,17.00,–
+"Media and communication equipment workers, all other",3.00,–,3.00,–,0.00,–
+Healthcare practitioners and technical occupations,7485.00,1273.00,1983.00,1516.00,5503.00,1218.00
+Chiropractors,21.00,–,14.00,–,7.00,–
+Dentists,76.00,2492.00,42.00,–,34.00,–
+Dietitians and nutritionists,88.00,1184.00,10.00,–,78.00,1179.00
+Optometrists,21.00,–,9.00,–,11.00,–
+Pharmacists,245.00,2019.00,112.00,2010.00,133.00,2087.00
+Emergency medicine physicians,21.00,–,17.00,–,4.00,–
+Radiologists,21.00,–,18.00,–,2.00,–
+Other physicians,714.00,2418.00,410.00,2647.00,304.00,2283.00
+Surgeons,45.00,–,33.00,–,12.00,–
+Physician assistants,126.00,1884.00,47.00,–,79.00,1855.00
+Podiatrists,3.00,–,3.00,–,0.00,–
+Audiologists,17.00,–,5.00,–,11.00,–
+Occupational therapists,107.00,1467.00,23.00,–,84.00,1470.00
+Physical therapists,203.00,1527.00,74.00,1551.00,129.00,1478.00
+Radiation therapists,14.00,–,5.00,–,9.00,–
+Recreational therapists,11.00,–,2.00,–,9.00,–
+Respiratory therapists,104.00,1262.00,33.00,–,71.00,1242.00
+Speech-language pathologists,132.00,1233.00,5.00,–,126.00,1229.00
+Exercise physiologists,1.00,–,1.00,–,0.00,–
+"Therapists, all other",137.00,1147.00,24.00,–,113.00,1132.00
+Veterinarians,67.00,1797.00,18.00,–,48.00,–
+Registered nurses,2615.00,1305.00,375.00,1437.00,2240.00,1274.00
+Nurse anesthetists,25.00,–,11.00,–,14.00,–
+Nurse midwives,6.00,–,0.00,–,6.00,–
+Nurse practitioners,188.00,1955.00,28.00,–,160.00,1903.00
+Acupuncturists,3.00,–,0.00,–,3.00,–
+"Healthcare diagnosing or treating practitioners, all other",0.00,–,0.00,–,0.00,–
+Clinical laboratory technologists and technicians,322.00,992.00,112.00,964.00,210.00,1001.00
+Dental hygienists,97.00,1269.00,7.00,–,90.00,1264.00
+Cardiovascular technologists and technicians,46.00,–,16.00,–,29.00,–
+Diagnostic medical sonographers,61.00,1462.00,15.00,–,46.00,–
+Radiologic technologists and technicians,201.00,1167.00,64.00,1280.00,137.00,1140.00
+Magnetic resonance imaging technologists,27.00,–,13.00,–,14.00,–
+Nuclear medicine technologists and medical dosimetrists,31.00,–,11.00,–,20.00,–
+Emergency medical technicians,110.00,883.00,79.00,910.00,31.00,–
+Paramedics,97.00,1288.00,67.00,1352.00,30.00,–
+Pharmacy technicians,268.00,800.00,61.00,822.00,207.00,796.00
+Psychiatric technicians,54.00,749.00,12.00,–,41.00,–
+Surgical technologists,109.00,1036.00,31.00,–,78.00,1006.00
+Veterinary technologists and technicians,106.00,779.00,9.00,–,97.00,765.00
+Dietetic technicians and ophthalmic medical technicians,37.00,–,7.00,–,31.00,–
+Licensed practical and licensed vocational nurses,444.00,921.00,45.00,–,399.00,918.00
+Medical records specialists,181.00,894.00,16.00,–,165.00,889.00
+"Opticians, dispensing",42.00,–,12.00,–,30.00,–
+Miscellaneous health technologists and technicians,150.00,891.00,54.00,1003.00,97.00,835.00
+Other healthcare practitioners and technical occupations,91.00,1362.00,31.00,–,61.00,1327.00
+Service occupations,14630.00,644.00,7000.00,723.00,7630.00,598.00
+Healthcare support occupations,3269.00,637.00,527.00,723.00,2742.00,624.00
+Home health aides,314.00,587.00,49.00,–,264.00,581.00
+Personal care aides,848.00,611.00,192.00,666.00,656.00,598.00
+Nursing assistants,916.00,626.00,110.00,740.00,805.00,615.00
+Orderlies and psychiatric aides,43.00,–,18.00,–,25.00,–
+Occupational therapy assistants and aides,29.00,–,5.00,–,24.00,–
+Physical therapist assistants and aides,37.00,–,9.00,–,28.00,–
+Massage therapists,42.00,–,7.00,–,35.00,–
+Dental assistants,219.00,665.00,19.00,–,200.00,653.00
+Medical assistants,482.00,676.00,51.00,980.00,430.00,668.00
+Medical transcriptionists,26.00,–,8.00,–,19.00,–
+Pharmacy aides,28.00,–,9.00,–,19.00,–
+Veterinary assistants and laboratory animal caretakers,47.00,–,7.00,–,40.00,–
+Phlebotomists,109.00,681.00,10.00,–,99.00,666.00
+Other healthcare support workers,128.00,768.00,32.00,–,96.00,656.00
+Protective service occupations,2608.00,998.00,2031.00,1067.00,577.00,814.00
+First-line supervisors of correctional officers,36.00,–,25.00,–,11.00,–
+First-line supervisors of police and detectives,89.00,1360.00,74.00,1413.00,15.00,–
+First-line supervisors of firefighting and prevention workers,46.00,–,43.00,–,4.00,–
+First-line supervisors of security workers,66.00,1147.00,52.00,1146.00,14.00,–
+"First-line supervisors of protective service workers, all other",7.00,–,2.00,–,5.00,–
+Firefighters,278.00,1291.00,261.00,1320.00,17.00,–
+Fire inspectors,24.00,–,21.00,–,3.00,–
+Bailiffs,20.00,–,10.00,–,10.00,–
+Correctional officers and jailers,275.00,920.00,199.00,983.00,76.00,807.00
+Detectives and criminal investigators,120.00,1294.00,86.00,1319.00,34.00,–
+Fish and game wardens,6.00,–,6.00,–,0.00,–
+Parking enforcement workers,12.00,–,9.00,–,2.00,–
+Police officers,751.00,1232.00,638.00,1242.00,113.00,1197.00
+Animal control workers,7.00,–,3.00,–,4.00,–
+Private detectives and investigators,70.00,1018.00,35.00,–,35.00,–
+Security guards and gambling surveillance officers,675.00,689.00,502.00,704.00,172.00,641.00
+Crossing guards and flaggers,22.00,–,17.00,–,6.00,–
+Transportation security screeners,42.00,–,21.00,–,21.00,–
+School bus monitors,14.00,–,1.00,–,13.00,–
+Other protective service workers,48.00,–,26.00,–,22.00,–
+Food preparation and serving related occupations,3863.00,573.00,1962.00,598.00,1901.00,534.00
+Chefs and head cooks,319.00,750.00,256.00,777.00,63.00,655.00
+First-line supervisors of food preparation and serving workers,349.00,621.00,126.00,706.00,223.00,596.00
+Cooks,1187.00,549.00,751.00,572.00,436.00,512.00
+Food preparation workers,439.00,547.00,184.00,571.00,254.00,531.00
+Bartenders,217.00,668.00,106.00,709.00,111.00,627.00
+Fast food and counter workers,268.00,507.00,96.00,511.00,172.00,503.00
+Waiters and waitresses,674.00,576.00,258.00,605.00,416.00,524.00
+"Food servers, nonrestaurant",102.00,544.00,23.00,–,79.00,529.00
+Dining room and cafeteria attendants and bartender helpers,102.00,509.00,52.00,583.00,50.00,477.00
+Dishwashers,128.00,512.00,92.00,511.00,36.00,–
+"Hosts and hostesses, restaurant, lounge, and coffee shop",77.00,498.00,17.00,–,60.00,500.00
+"Food preparation and serving related workers, all other",1.00,–,0.00,–,1.00,–
+Building and grounds cleaning and maintenance occupations,3347.00,623.00,2094.00,685.00,1253.00,555.00
+First-line supervisors of housekeeping and janitorial workers,176.00,829.00,116.00,881.00,60.00,728.00
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",76.00,900.00,65.00,907.00,11.00,–
+Janitors and building cleaners,1437.00,630.00,943.00,675.00,494.00,561.00
+Maids and housekeeping cleaners,744.00,546.00,107.00,622.00,637.00,529.00
+Pest control workers,108.00,868.00,102.00,876.00,6.00,–
+Landscaping and groundskeeping workers,738.00,622.00,693.00,629.00,45.00,–
+Tree trimmers and pruners,59.00,846.00,59.00,851.00,1.00,–
+Other grounds maintenance workers,9.00,–,9.00,–,0.00,–
+Personal care and service occupations,1543.00,618.00,387.00,699.00,1157.00,603.00
+Supervisors of personal care and service workers,92.00,784.00,33.00,–,59.00,743.00
+Animal trainers,27.00,–,11.00,–,15.00,–
+Animal caretakers,133.00,595.00,29.00,–,104.00,600.00
+Gambling services workers,54.00,852.00,26.00,–,28.00,–
+"Ushers, lobby attendants, and ticket takers",9.00,–,5.00,–,4.00,–
+Other entertainment attendants and related workers,68.00,615.00,41.00,–,28.00,–
+"Embalmers, crematory operators, and funeral attendants",3.00,–,2.00,–,1.00,–
+"Morticians, undertakers, and funeral arrangers",18.00,–,13.00,–,6.00,–
+Barbers,36.00,–,28.00,–,8.00,–
+"Hairdressers, hairstylists, and cosmetologists",252.00,604.00,24.00,–,228.00,595.00
+Manicurists and pedicurists,153.00,655.00,26.00,–,128.00,624.00
+Skincare specialists,27.00,–,1.00,–,26.00,–
+Other personal appearance workers,2.00,–,0.00,–,2.00,–
+"Baggage porters, bellhops, and concierges",62.00,612.00,45.00,–,17.00,–
+Tour and travel guides,10.00,–,9.00,–,1.00,–
+Childcare workers,402.00,569.00,28.00,–,374.00,571.00
+Exercise trainers and group fitness instructors,54.00,729.00,24.00,–,31.00,–
+Recreation workers,88.00,652.00,27.00,–,61.00,653.00
+Residential advisors,22.00,–,6.00,–,16.00,–
+"Personal care and service workers, all other",31.00,–,8.00,–,22.00,–
+Sales and office occupations,21748.00,826.00,8677.00,970.00,13071.00,766.00
+Sales and related occupations,9281.00,887.00,5090.00,1049.00,4191.00,720.00
+First-line supervisors of retail sales workers,2165.00,875.00,1175.00,992.00,990.00,733.00
+First-line supervisors of non-retail sales workers,833.00,1191.00,540.00,1257.00,292.00,1130.00
+Cashiers,1235.00,515.00,346.00,520.00,888.00,513.00
+Counter and rental clerks,56.00,781.00,37.00,–,19.00,–
+Parts salespersons,103.00,778.00,84.00,776.00,19.00,–
+Retail salespersons,1665.00,745.00,999.00,855.00,666.00,635.00
+Advertising sales agents,93.00,1174.00,44.00,–,50.00,1136.00
+Insurance sales agents,462.00,1008.00,213.00,1253.00,249.00,839.00
+"Securities, commodities, and financial services sales agents",206.00,1630.00,137.00,1891.00,69.00,1054.00
+Travel agents,33.00,–,10.00,–,23.00,–
+"Sales representatives of services, except advertising, insurance, financial services, and travel",523.00,1169.00,368.00,1237.00,155.00,1122.00
+"Sales representatives, wholesale and manufacturing",1014.00,1263.00,712.00,1356.00,301.00,1157.00
+"Models, demonstrators, and product promoters",4.00,–,1.00,–,3.00,–
+Real estate brokers and sales agents,524.00,1141.00,222.00,1324.00,302.00,1037.00
+Sales engineers,29.00,–,29.00,–,0.00,–
+Telemarketers,22.00,–,9.00,–,13.00,–
+"Door-to-door sales workers, news and street vendors, and related workers",17.00,–,7.00,–,10.00,–
+"Sales and related workers, all other",298.00,943.00,157.00,1017.00,140.00,843.00
+Office and administrative support occupations,12467.00,806.00,3587.00,899.00,8880.00,779.00
+First-line supervisors of office and administrative support workers,1098.00,964.00,341.00,1184.00,757.00,913.00
+"Switchboard operators, including answering service",8.00,–,2.00,–,6.00,–
+Telephone operators,17.00,–,5.00,–,11.00,–
+"Communications equipment operators, all other",3.00,–,1.00,–,2.00,–
+Bill and account collectors,81.00,726.00,22.00,–,59.00,742.00
+Billing and posting clerks,398.00,772.00,53.00,767.00,346.00,774.00
+"Bookkeeping, accounting, and auditing clerks",741.00,825.00,137.00,1009.00,604.00,802.00
+Gambling cage workers,15.00,–,3.00,–,12.00,–
+Payroll and timekeeping clerks,144.00,921.00,19.00,–,125.00,913.00
+Procurement clerks,35.00,–,18.00,–,17.00,–
+Tellers,173.00,695.00,40.00,–,132.00,691.00
+"Financial clerks, all other",95.00,909.00,36.00,–,59.00,833.00
+Brokerage clerks,9.00,–,4.00,–,5.00,–
+Correspondence clerks,1.00,–,0.00,–,1.00,–
+"Court, municipal, and license clerks",69.00,811.00,16.00,–,53.00,778.00
+"Credit authorizers, checkers, and clerks",40.00,–,14.00,–,26.00,–
+Customer service representatives,1863.00,780.00,645.00,867.00,1219.00,737.00
+"Eligibility interviewers, government programs",67.00,840.00,11.00,–,56.00,790.00
+File Clerks,126.00,775.00,29.00,–,98.00,791.00
+"Hotel, motel, and resort desk clerks",74.00,652.00,20.00,–,54.00,653.00
+"Interviewers, except eligibility and loan",172.00,772.00,43.00,–,130.00,775.00
+"Library assistants, clerical",29.00,–,3.00,–,26.00,–
+Loan interviewers and clerks,126.00,899.00,34.00,–,91.00,886.00
+New accounts clerks,9.00,–,4.00,–,5.00,–
+Order clerks,89.00,714.00,37.00,–,52.00,712.00
+"Human resources assistants, except payroll and timekeeping",37.00,–,7.00,–,30.00,–
+Receptionists and information clerks,871.00,685.00,97.00,796.00,774.00,674.00
+Reservation and transportation ticket agents and travel clerks,74.00,786.00,34.00,–,39.00,–
+"Information and record clerks, all other",98.00,774.00,19.00,–,79.00,751.00
+Cargo and freight agents,3.00,–,3.00,–,0.00,–
+Couriers and messengers,492.00,802.00,402.00,846.00,90.00,680.00
+Public safety telecommunicators,82.00,911.00,24.00,–,58.00,908.00
+"Dispatchers, except police, fire, and ambulance",163.00,812.00,92.00,842.00,71.00,765.00
+"Meter readers, utilities",30.00,–,28.00,–,2.00,–
+Postal service clerks,96.00,1047.00,31.00,–,66.00,1006.00
+Postal service mail carriers,259.00,992.00,155.00,1008.00,104.00,978.00
+"Postal service mail sorters, processors, and processing machine operators",76.00,879.00,39.00,–,37.00,–
+"Production, planning, and expediting clerks",184.00,1115.00,93.00,1174.00,91.00,1018.00
+"Shipping, receiving, and inventory clerks",537.00,725.00,346.00,748.00,191.00,696.00
+"Weighers, measurers, checkers, and samplers, recordkeeping",42.00,–,29.00,–,12.00,–
+Executive secretaries and executive administrative assistants,211.00,1027.00,10.00,–,201.00,1015.00
+Legal secretaries and administrative assistants,46.00,–,2.00,–,44.00,–
+Medical secretaries and administrative assistants,53.00,756.00,5.00,–,48.00,–
+"Secretaries and administrative assistants, except legal, medical, and executive",1532.00,819.00,127.00,1006.00,1405.00,807.00
+Data entry keyers,195.00,718.00,47.00,–,148.00,712.00
+Word processors and typists,23.00,–,2.00,–,21.00,–
+Desktop publishers,1.00,–,1.00,–,0.00,–
+Insurance claims and policy processing clerks,262.00,763.00,60.00,754.00,202.00,766.00
+"Mail clerks and mail machine operators, except postal service",40.00,–,24.00,–,16.00,–
+"Office clerks, general",927.00,744.00,157.00,823.00,770.00,726.00
+"Office machine operators, except computer",22.00,–,2.00,–,20.00,–
+Proofreaders and copy markers,4.00,–,1.00,–,3.00,–
+Statistical assistants,42.00,–,26.00,–,16.00,–
+"Office and administrative support workers, all other",582.00,890.00,187.00,949.00,395.00,874.00
+,,,,,,
+"Natural resources, construction, and maintenance occupations",11182.00,919.00,10635.00,930.00,547.00,696.00
+"Farming, fishing, and forestry occupations",800.00,623.00,651.00,637.00,149.00,585.00
+"First-line supervisors of farming, fishing, and forestry workers",35.00,–,32.00,–,2.00,–
+Agricultural inspectors,11.00,–,8.00,–,3.00,–
+Animal breeders,6.00,–,3.00,–,4.00,–
+"Graders and sorters, agricultural products",41.00,–,16.00,–,26.00,–
+Miscellaneous agricultural workers,641.00,613.00,531.00,617.00,110.00,590.00
+Fishing and hunting workers,16.00,–,15.00,–,1.00,–
+Forest and conservation workers,12.00,–,9.00,–,2.00,–
+Logging workers,38.00,–,37.00,–,1.00,–
+Construction and extraction occupations,6171.00,904.00,5965.00,908.00,207.00,720.00
+First-line supervisors of construction trades and extraction workers,545.00,1208.00,522.00,1213.00,24.00,–
+Boilermakers,23.00,–,23.00,–,0.00,–
+"Brickmasons, blockmasons, and stonemasons",77.00,867.00,74.00,868.00,3.00,–
+Carpenters,830.00,850.00,801.00,864.00,29.00,–
+"Carpet, floor, and tile installers and finishers",104.00,778.00,93.00,783.00,10.00,–
+"Cement masons, concrete finishers, and terrazzo workers",63.00,917.00,63.00,917.00,0.00,–
+Construction laborers,1503.00,766.00,1457.00,771.00,45.00,–
+Construction equipment operators,334.00,992.00,326.00,990.00,8.00,–
+"Drywall installers, ceiling tile installers, and tapers",133.00,704.00,128.00,709.00,4.00,–
+Electricians,737.00,1060.00,720.00,1064.00,17.00,–
+Glaziers,45.00,–,42.00,–,3.00,–
+Insulation workers,30.00,–,29.00,–,1.00,–
+Painters and paperhangers,360.00,741.00,340.00,759.00,20.00,–
+Pipelayers,36.00,–,34.00,–,2.00,–
+"Plumbers, pipefitters, and steamfitters",506.00,992.00,496.00,986.00,10.00,–
+Plasterers and stucco masons,15.00,–,15.00,–,0.00,–
+Reinforcing iron and rebar workers,9.00,–,9.00,–,0.00,–
+Roofers,151.00,685.00,148.00,681.00,2.00,–
+Sheet metal workers,115.00,979.00,111.00,988.00,4.00,–
+Structural iron and steel workers,35.00,–,33.00,–,2.00,–
+Solar photovoltaic installers,20.00,–,20.00,–,0.00,–
+"Helpers, construction trades",63.00,691.00,60.00,701.00,3.00,–
+Construction and building inspectors,65.00,988.00,58.00,1013.00,7.00,–
+Elevator and escalator installers and repairers,37.00,–,33.00,–,4.00,–
+Fence erectors,25.00,–,25.00,–,0.00,–
+Hazardous materials removal workers,25.00,–,22.00,–,3.00,–
+Highway maintenance workers,90.00,880.00,87.00,866.00,2.00,–
+Rail-track laying and maintenance equipment operators,11.00,–,11.00,–,0.00,–
+Septic tank servicers and sewer pipe cleaners,9.00,–,9.00,–,0.00,–
+Miscellaneous construction and related workers,19.00,–,19.00,–,0.00,–
+"Derrick, rotary drill, and service unit operators, oil and gas",20.00,–,20.00,–,0.00,–
+"Excavating and loading machine and dragline operators, surface mining",4.00,–,4.00,–,0.00,–
+"Earth drillers, except oil and gas",30.00,–,30.00,–,0.00,–
+"Explosives workers, ordnance handling experts, and blasters",11.00,–,10.00,–,2.00,–
+Underground mining machine operators,35.00,–,34.00,–,1.00,–
+"Roustabouts, oil and gas",3.00,–,3.00,–,0.00,–
+Other extraction workers,55.00,1160.00,55.00,1159.00,0.00,–
+"Installation, maintenance, and repair occupations",4211.00,1017.00,4019.00,1023.00,192.00,836.00
+"First-line supervisors of mechanics, installers, and repairers",217.00,1304.00,199.00,1335.00,18.00,–
+"Computer, automated teller, and office machine repairers",148.00,1017.00,126.00,1058.00,23.00,–
+Radio and telecommunications equipment installers and repairers,127.00,1225.00,121.00,1269.00,7.00,–
+Avionics technicians,3.00,–,3.00,–,0.00,–
+"Electric motor, power tool, and related repairers",17.00,–,17.00,–,0.00,–
+"Electrical and electronics installers and repairers, transportation equipment",1.00,–,1.00,–,0.00,–
+"Electrical and electronics repairers, industrial and utility",16.00,–,12.00,–,4.00,–
+"Electronic equipment installers and repairers, motor vehicles",8.00,–,7.00,–,1.00,–
+Audiovisual equipment installers and repairers,13.00,–,13.00,–,0.00,–
+Security and fire alarm systems installers,63.00,1008.00,60.00,999.00,3.00,–
+Aircraft mechanics and service technicians,152.00,1282.00,146.00,1297.00,6.00,–
+Automotive body and related repairers,113.00,990.00,109.00,995.00,5.00,–
+Automotive glass installers and repairers,24.00,–,23.00,–,1.00,–
+Automotive service technicians and mechanics,651.00,906.00,636.00,909.00,15.00,–
+Bus and truck mechanics and diesel engine specialists,318.00,996.00,312.00,993.00,5.00,–
+Heavy vehicle and mobile equipment service technicians and mechanics,237.00,1122.00,234.00,1120.00,3.00,–
+Small engine mechanics,36.00,–,34.00,–,2.00,–
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",75.00,781.00,73.00,786.00,2.00,–
+Control and valve installers and repairers,15.00,–,15.00,–,0.00,–
+"Heating, air conditioning, and refrigeration mechanics and installers",370.00,1009.00,367.00,1009.00,3.00,–
+Home appliance repairers,30.00,–,27.00,–,3.00,–
+Industrial and refractory machinery mechanics,426.00,1050.00,399.00,1056.00,27.00,–
+"Maintenance and repair workers, general",556.00,958.00,527.00,978.00,29.00,–
+"Maintenance workers, machinery",23.00,–,23.00,–,0.00,–
+Millwrights,47.00,–,43.00,–,4.00,–
+Electrical power-line installers and repairers,123.00,1219.00,122.00,1217.00,0.00,–
+Telecommunications line installers and repairers,128.00,1078.00,120.00,1090.00,8.00,–
+Precision instrument and equipment repairers,54.00,1150.00,47.00,–,7.00,–
+Wind turbine service technicians,12.00,–,12.00,–,0.00,–
+"Coin, vending, and amusement machine servicers and repairers",22.00,–,19.00,–,4.00,–
+Commercial divers,0.00,–,0.00,–,0.00,–
+Locksmiths and safe repairers,19.00,–,17.00,–,2.00,–
+Manufactured building and mobile home installers,1.00,–,1.00,–,0.00,–
+Riggers,7.00,–,7.00,–,0.00,–
+"Helpers--installation, maintenance, and repair workers",18.00,–,16.00,–,2.00,–
+"Other installation, maintenance, and repair workers",140.00,830.00,129.00,845.00,12.00,–
+"Production, transportation, and material moving occupations",15590.00,774.00,12056.00,825.00,3535.00,638.00
+Production occupations,7107.00,809.00,5251.00,884.00,1856.00,653.00
+First-line supervisors of production and operating workers,738.00,1080.00,601.00,1138.00,137.00,796.00
+"Aircraft structure, surfaces, rigging, and systems assemblers",8.00,–,6.00,–,2.00,–
+"Electrical, electronics, and electromechanical assemblers",111.00,745.00,71.00,767.00,40.00,–
+Engine and other machine assemblers,6.00,–,5.00,–,1.00,–
+Structural metal fabricators and fitters,14.00,–,12.00,–,2.00,–
+Other assemblers and fabricators,894.00,710.00,579.00,751.00,315.00,664.00
+Bakers,143.00,614.00,57.00,664.00,86.00,599.00
+"Butchers and other meat, poultry, and fish processing workers",236.00,718.00,189.00,742.00,47.00,–
+"Food and tobacco roasting, baking, and drying machine operators and tenders",10.00,–,8.00,–,2.00,–
+Food batchmakers,67.00,669.00,45.00,–,22.00,–
+Food cooking machine operators and tenders,7.00,–,6.00,–,2.00,–
+"Food processing workers, all other",136.00,734.00,84.00,818.00,52.00,648.00
+Computer numerically controlled tool operators and programmers,83.00,1036.00,79.00,1036.00,5.00,–
+"Forming machine setters, operators, and tenders, metal and plastic",23.00,–,21.00,–,2.00,–
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",63.00,746.00,44.00,–,19.00,–
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",26.00,–,22.00,–,4.00,–
+"Other machine tool setters, operators, and tenders, metal and plastic",7.00,–,7.00,–,0.00,–
+Machinists,295.00,914.00,284.00,916.00,10.00,–
+"Metal furnace operators, tenders, pourers, and casters",17.00,–,17.00,–,0.00,–
+"Model makers and patternmakers, metal and plastic",2.00,–,2.00,–,0.00,–
+"Molders and molding machine setters, operators, and tenders, metal and plastic",34.00,–,28.00,–,7.00,–
+Tool and die makers,44.00,–,43.00,–,1.00,–
+"Welding, soldering, and brazing workers",506.00,904.00,482.00,907.00,24.00,–
+Other metal workers and plastic workers,340.00,769.00,276.00,783.00,64.00,731.00
+Prepress technicians and workers,13.00,–,10.00,–,3.00,–
+Printing press operators,130.00,839.00,111.00,869.00,19.00,–
+Print binding and finishing workers,6.00,–,6.00,–,0.00,–
+Laundry and dry-cleaning workers,88.00,511.00,29.00,–,59.00,492.00
+"Pressers, textile, garment, and related materials",13.00,–,9.00,–,4.00,–
+Sewing machine operators,94.00,572.00,27.00,–,67.00,560.00
+Shoe and leather workers,11.00,–,7.00,–,3.00,–
+"Tailors, dressmakers, and sewers",25.00,–,4.00,–,20.00,–
+"Textile machine setters, operators, and tenders",6.00,–,4.00,–,2.00,–
+Upholsterers,17.00,–,11.00,–,6.00,–
+"Other textile, apparel, and furnishings workers",9.00,–,3.00,–,6.00,–
+Cabinetmakers and bench carpenters,57.00,788.00,53.00,782.00,3.00,–
+Furniture finishers,6.00,–,4.00,–,2.00,–
+"Sawing machine setters, operators, and tenders, wood",18.00,–,16.00,–,2.00,–
+"Woodworking machine setters, operators, and tenders, except sawing",15.00,–,12.00,–,2.00,–
+Other woodworkers,12.00,–,10.00,–,1.00,–
+"Power plant operators, distributors, and dispatchers",34.00,–,34.00,–,0.00,–
+Stationary engineers and boiler operators,64.00,1184.00,57.00,1175.00,7.00,–
+Water and wastewater treatment plant and system operators,94.00,960.00,86.00,965.00,8.00,–
+Miscellaneous plant and system operators,32.00,–,32.00,–,0.00,–
+"Chemical processing machine setters, operators, and tenders",65.00,969.00,53.00,979.00,12.00,–
+"Crushing, grinding, polishing, mixing, and blending workers",69.00,838.00,59.00,856.00,9.00,–
+Cutting workers,51.00,775.00,43.00,–,8.00,–
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",24.00,–,17.00,–,7.00,–
+"Furnace, kiln, oven, drier, and kettle operators and tenders",10.00,–,5.00,–,4.00,–
+"Inspectors, testers, sorters, samplers, and weighers",750.00,883.00,466.00,1005.00,283.00,733.00
+Jewelers and precious stone and metal workers,21.00,–,13.00,–,7.00,–
+Dental and ophthalmic laboratory technicians and medical appliance technicians,50.00,692.00,22.00,–,28.00,–
+Packaging and filling machine operators and tenders,251.00,671.00,133.00,755.00,118.00,605.00
+Painting workers,134.00,822.00,124.00,893.00,10.00,–
+Photographic process workers and processing machine operators,21.00,–,12.00,–,10.00,–
+Adhesive bonding machine operators and tenders,14.00,–,11.00,–,3.00,–
+Etchers and engravers,1.00,–,1.00,–,1.00,–
+"Molders, shapers, and casters, except metal and plastic",17.00,–,15.00,–,3.00,–
+"Paper goods machine setters, operators, and tenders",8.00,–,5.00,–,3.00,–
+Tire builders,8.00,–,8.00,–,0.00,–
+Helpers--production workers,32.00,–,22.00,–,10.00,–
+Other production equipment operators and tenders,5.00,–,4.00,–,1.00,–
+Other production workers,1022.00,761.00,742.00,809.00,280.00,630.00
+Transportation and material moving occupations,8483.00,738.00,6804.00,786.00,1679.00,624.00
+Supervisors of transportation and material moving workers,310.00,996.00,241.00,1077.00,68.00,779.00
+Aircraft pilots and flight engineers,115.00,1913.00,113.00,1912.00,2.00,–
+Air traffic controllers and airfield operations specialists,28.00,–,28.00,–,0.00,–
+Flight attendants,77.00,859.00,30.00,–,47.00,–
+"Ambulance drivers and attendants, except emergency medical technicians",6.00,–,5.00,–,0.00,–
+"Bus drivers, school",125.00,710.00,57.00,712.00,69.00,695.00
+"Bus drivers, transit and intercity",182.00,801.00,111.00,942.00,71.00,679.00
+Driver/sales workers and truck drivers,2680.00,920.00,2499.00,933.00,181.00,732.00
+Shuttle drivers and chauffeurs,29.00,–,27.00,–,2.00,–
+Taxi drivers,148.00,678.00,138.00,690.00,10.00,–
+"Motor vehicle operators, all other",94.00,723.00,80.00,745.00,15.00,–
+Locomotive engineers and operators,41.00,–,38.00,–,3.00,–
+Railroad conductors and yardmasters,38.00,–,37.00,–,1.00,–
+Other rail transportation workers,13.00,–,10.00,–,3.00,–
+Sailors and marine oilers,17.00,–,17.00,–,0.00,–
+Ship and boat captains and operators,17.00,–,17.00,–,0.00,–
+Ship engineers,2.00,–,2.00,–,0.00,–
+Parking attendants,47.00,–,40.00,–,7.00,–
+Transportation service attendants,70.00,630.00,67.00,629.00,3.00,–
+Transportation inspectors,34.00,–,27.00,–,7.00,–
+Passenger attendants,6.00,–,5.00,–,1.00,–
+Other transportation workers,28.00,–,23.00,–,5.00,–
+Crane and tower operators,53.00,1047.00,53.00,1047.00,0.00,–
+"Conveyor, dredge, and hoist and winch operators",28.00,–,25.00,–,3.00,–
+Industrial truck and tractor operators,581.00,743.00,526.00,746.00,55.00,713.00
+Cleaners of vehicles and equipment,215.00,590.00,173.00,589.00,42.00,–
+"Laborers and freight, stock, and material movers, hand",1649.00,689.00,1294.00,703.00,355.00,624.00
+Machine feeders and offbearers,16.00,–,9.00,–,7.00,–
+"Packers and packagers, hand",541.00,614.00,233.00,633.00,308.00,603.00
+Stockers and order fillers,1151.00,612.00,752.00,620.00,400.00,603.00
+Pumping station operators,15.00,–,15.00,–,0.00,–
+Refuse and recyclable material collectors,63.00,728.00,59.00,707.00,3.00,–
+Other material moving workers,62.00,777.00,55.00,775.00,8.00,–
