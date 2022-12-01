@@ -15,6 +15,7 @@ st.set_page_config(
      layout="wide",
 )
 
+
 sec = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/industry_sectors.csv")
 df = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/gender_gap.csv")
 

@@ -19,9 +19,13 @@ st.set_page_config(
 sec = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/industry_sectors.csv")
 df = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/gender_gap.csv")
 
-st.header("How does motherhood & domestic labour affect the gender gap?")
+st.header("How does motherhood affect the gender gap?")
 st.markdown('''
-##### In the following tables we can see what citizen's from different countries think about working mothers with children
+In the following tables we can see what citizen's from different countries think about working mothers with children 
+under school age and on school age. This data was taken from the **International Social Survey Programme: Family and 
+Changing Gender Roles** that's made by the **Leibniz Institute for the Social Science** and covers the opinion of different
+people from different countries on family and gender 
+related topics. 
 ''')
 
 not_at_school= cl.not_school()
@@ -34,10 +38,10 @@ fig2 = viz.bar(at_school, "Do you think that women should work outside the home 
 st.plotly_chart(fig2, use_container_width=True)
 
 
-st.subheader("Hours spent on domestic labour by women")
-st.markdown('''
+#st.subheader("Hours spent on domestic labour by women")
+#st.markdown('''
 ##### In the following graph we can see the amount of time women spend on domestic labour and their participation on the work force.
-''')
+#''')
 
 def main():
     html_ = """<div class='tableauPlaceholder' id='viz1669733320904' style='position: relative'>
@@ -59,7 +63,7 @@ def main():
      </script>"""
     components.html(html_, height=760)
 
-if __name__ == "__main__":    
-    main()
+#if __name__ == "__main__":    
+#    main()
 
 

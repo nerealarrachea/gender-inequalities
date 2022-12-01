@@ -204,9 +204,6 @@ st.subheader(f"That means that they earn {lst2[0]} dollars less every week, whic
 
 st.markdown('''
 
-
-
-
 ''')
 sec2 = sec[['Occupation','Cents per dollar']]
 st.dataframe(sec2)
