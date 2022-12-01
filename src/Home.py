@@ -21,8 +21,19 @@ st.set_page_config(
 
 
 # Title
-st.title("Exploring gender inequlity around the 🌎")
-st.subheader("1. Data")
+st.title("Exploring gender inequality around the 🌎")
+st.subheader("Data")
+st.markdown('''
+I created a dataframe with data from different sites, such as: **The World Bank, The OECD, ILOSTAT and The World Economic Forum.**
+''')
+
+st.dataframe(df)
+
+st.markdown('''
+To calculate the gender gap by industry I got the median salary in the USA for different jobs and by gender from the **U.S. Bureau of Labor Statistics.**
+''')
+st.dataframe(sec)
+
 # Display Images
  
 # import Image from pillow to open images
@@ -40,3 +51,4 @@ st.subheader("1. Data")
 #- Item 3
 #"""
 #)
+
