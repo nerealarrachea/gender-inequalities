@@ -5,7 +5,6 @@ import plotly.express as px
 # Viz
 import plotly.express as px 
 import matplotlib.pyplot as plt
-sns.set_theme(style="white", palette="Spectral")
 
 
 def map(df, color, title, tones):
@@ -18,7 +17,7 @@ def scatter(df, x, y, color, title):
     trendline="ols", trendline_scope="overall", title= title)
     return fig
 
-def heat(df):
+def heat(df,sns):
     np.triu(np.ones_like(df.corr()))
     fig, ax = plt.subplots(figsize=(19,18))
     mask = np.triu(np.ones_like(df.corr(), dtype=bool))
