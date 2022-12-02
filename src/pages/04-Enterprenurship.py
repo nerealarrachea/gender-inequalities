@@ -3,7 +3,6 @@ import streamlit.components.v1 as components
 import pandas as pd
 import sys
 sys.path.append('/.../viz.py') 
-import seaborn as sns
 import plotly.express as px 
 
 

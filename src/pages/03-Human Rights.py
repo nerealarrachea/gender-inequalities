@@ -4,7 +4,6 @@ import pandas as pd
 import sys
 sys.path.append('/.../viz.py') 
 import viz
-import seaborn as sns
 import plotly.express as px 
 
 # st.video('https://youtu.be/FVsvrFAWDTM') 

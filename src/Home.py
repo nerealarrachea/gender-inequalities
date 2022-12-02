@@ -5,7 +5,6 @@ import pandas as pd
 import pickle
 from PIL import Image
 import viz 
-import seaborn as sns
 import plotly.express as px
 
 
