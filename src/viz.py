@@ -4,7 +4,6 @@ import plotly.express as px
 
 # Viz
 import plotly.express as px 
-import seaborn as sns
 import matplotlib.pyplot as plt
 sns.set_theme(style="white", palette="Spectral")
 
