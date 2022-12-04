@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h3 align="center"> 🚨👩🏽‍🔬 Gender gap around the world ⛹🏽‍♀️🚨</h3>
+  <h3 align="center"> 🚨👩🏽‍🔬 Gender inequalities around the world ⛹🏽‍♀️🚨</h3>
 
   <h6 align="center">
     Ironhack: final project
@@ -14,12 +14,8 @@
 
 ### Showing gender inequalities with Streamlit
 
-Check it out here 👉🏾 http://localhost:8501/ 
+Check it out here 👉🏾 
 
-
-### References
-
-- 
-
-
-
+<center>
+<img src="./images/stream.gif" alt="kang" width="500"/>
+</center>
