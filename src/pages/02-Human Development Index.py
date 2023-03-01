@@ -4,7 +4,6 @@ import pandas as pd
 import sys
 sys.path.append('/.../viz.py') 
 sys.path.append('/.../cleaning.py') 
-import viz
 import plotly.express as px 
 
 st.set_page_config(
