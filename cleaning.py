@@ -60,6 +60,8 @@ def clean_all(df):
     df["Share of woman inventors"] = df["Share of woman inventors"].astype(np.float64)
     df['Requirement of obeying husband'] = df['Requirement of obeying husband'].astype('Int64')
     df['Equity in signing a contract'] = df['Equity in signing a contract'].astype('Int64')
+    df['Mandatory equal remuneration by law'] = df['Mandatory equal remuneration by law'].astype('Int64')
+
     return df 
 
 def school():
