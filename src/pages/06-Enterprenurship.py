@@ -7,8 +7,8 @@ import plotly.express as px
 
 
 
-df = pd.read_csv("data/gender_gap.csv")
-sec = pd.read_csv("data/industry_sectors.csv")
+df = pd.read_csv("pages/data/gender_gap.csv")
+sec = pd.read_csv("pages/data/industry_sectors.csv")
 df1 = df.dropna(subset=['Share of woman inventors'])
 
 

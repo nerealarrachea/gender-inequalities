@@ -8,42 +8,8 @@
 </p>
 
 <center>
-<img src="./images/basket.png" alt="kang" width="500"/>
+<img src="./images/gf_stream.gif" alt="kang" width="500"/>
 </center>
 
 
-
-## Table of contents
-
-- [Introduction](#introduction)
-- [Data Cleaning](#data-cleaning)
-- [Who's more likely to be attacked by a shark?](#exploratory-data-analysis)
-    * [Year](#11-years)
-    * [Age](#12-age)
-    * [Sex](#13-sex)
-    * [Country](#14-countries)
-    * [Activity](#15-activity)
-- [Hypothesis one](#hypothesis-one-shark-attacks-are-more-likely-to-happen-in-the-afternoon)
-- [Hypothesis two](#hypothesis-two-shark-attacks-are-more-likely-to-happen-in-the-summer)
-- [Last remarks](#last-remarks)
-- [References](#references)
-
-
-## Introduction
-
-
-
-
-## Data Cleaning
-
-
-
-## Exploratory Data Analysis 
-
-
-
-## Last Remarks
-
-
-### References
-
+###### Streamlit app that shows different metrics on gender inequality around the world. You can find the app [here]() 👈🏾

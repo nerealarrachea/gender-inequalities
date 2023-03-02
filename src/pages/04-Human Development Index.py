@@ -4,6 +4,7 @@ import pandas as pd
 import sys
 sys.path.append('/.../viz.py') 
 sys.path.append('/.../cleaning.py') 
+import viz 
 import plotly.express as px 
 
 st.set_page_config(
@@ -12,8 +13,8 @@ st.set_page_config(
      layout="wide",
 )
 
-df = pd.read_csv("data/gender_gap.csv")
-sec = pd.read_csv("data/industry_sectors.csv")
+df = pd.read_csv("pages/data/gender_gap.csv")
+sec = pd.read_csv("pages/data/industry_sectors.csv")
 
 st.header("Impact of gender inequality on HDI")
 st.markdown('''

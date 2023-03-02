@@ -12,8 +12,8 @@ st.set_page_config(
      layout="wide",
 )
 
-df = pd.read_csv("data/gender_gap.csv")
-sec = pd.read_csv("data/industry_sectors.csv")
+df = pd.read_csv("pages/data/gender_gap.csv")
+sec = pd.read_csv("pages/data/industry_sectors.csv")
 
 st.header("Do women really get a lower salary for the same job?")
 
