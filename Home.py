@@ -4,12 +4,11 @@ from datetime import date
 import pandas as pd
 import pickle
 from PIL import Image
-import viz 
 import plotly.express as px
 
 
-df = pd.read_csv("final-project/data/gender_gap.csv")
-sec = pd.read_csv("./pages/data/industry_sectors.csv")
+df = pd.read_csv("data/gender_gap.csv")
+sec = pd.read_csv("data/industry_sectors.csv")
 
 st.set_page_config(
      page_title="Gender inequality",
