@@ -8,9 +8,8 @@ import viz
 import plotly.express as px
 
 
-df = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/gender_gap.csv")
-#df = df.drop("Unnamed:0", axis = 0, inplace = True)
-sec = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/industry_sectors.csv")
+df = pd.read_csv("pages/data/gender_gap.csv")
+sec = pd.read_csv("pages/data/industry_sectors.csv")
 
 
 st.set_page_config(

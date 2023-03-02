@@ -12,8 +12,8 @@ st.set_page_config(
      layout="wide",
 )
 
-df = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/gender_gap.csv")
-
+df = pd.read_csv("data/gender_gap.csv")
+sec = pd.read_csv("data/industry_sectors.csv")
 
 st.header("Impact of gender inequality on HDI")
 st.markdown('''

@@ -42,32 +42,6 @@
 
 
 
-#### 1.1 Years
-
-
-
-#### 1.2 Age
-
-
-
-#### 1.3 Sex
-
-
-#### 1.4 Countries
-
-
-#### 1.5 Activity
-
-
-
-## Hypothesis one: shark attacks are more likely to happen in the afternoon
-
-
-
-## Hypothesis two: shark attacks are more likely to happen in the summer
-
-
-
 ## Last Remarks
 
 

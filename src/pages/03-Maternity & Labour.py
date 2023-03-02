@@ -16,8 +16,8 @@ st.set_page_config(
      layout="wide",
 )
 
-sec = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/industry_sectors.csv")
-df = pd.read_csv("/Users/narea/Desktop/ironhack/project/final-project/data/gender_gap.csv")
+df = pd.read_csv("data/gender_gap.csv")
+sec = pd.read_csv("data/industry_sectors.csv")
 
 st.header("How does motherhood affect the gender gap?")
 st.markdown('''
