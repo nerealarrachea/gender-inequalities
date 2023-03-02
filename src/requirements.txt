@@ -7,3 +7,4 @@ streamlit==1.15.1
 streamlit-folium==0.11.1
 textblob==0.15.3
 wordcloud==1.8.2.2
+seaborn==0.12.0
